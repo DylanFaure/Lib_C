@@ -9,11 +9,5 @@
 
 int main(void)
 {
-    char *str1 = "je suis str1";
-    char *str2 = "je suis str1";
-    int nb = 0;
-    
-    nb = my_strcmp(str1, str2);
-    my_put_nbr(nb);
     return (0);
 }
